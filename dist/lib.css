@@ -1,0 +1,2 @@
+.modal{border-color:#8bc34a;border-radius:5px;font-size:20px;padding:50px;position:relative}.modal::backdrop{background-color:#00000080}.modal:after{content:"X";position:absolute;right:5px;top:0}.modal:hover:after{color:grey}
+/*# sourceMappingURL=lib.css.map */

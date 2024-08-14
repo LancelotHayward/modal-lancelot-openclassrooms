@@ -1,0 +1,2 @@
+!function(e,n){"object"==typeof exports&&"undefined"!=typeof module?n(exports,require("react/jsx-runtime")):"function"==typeof define&&define.amd?define(["exports","react/jsx-runtime"],n):n((e||self).modalLancelotOpenclassrooms={},e.jsxRuntime)}(this,function(e,n){e.Modal=function({text:e,reference:o}){/*#__PURE__*/return n.jsx("dialog",{ref:o,onClick:e=>o.current.close(),className:"modal",children:e})}});
+//# sourceMappingURL=lib.umd.js.map

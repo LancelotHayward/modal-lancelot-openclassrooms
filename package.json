@@ -1,6 +1,6 @@
 {
   "name": "modal-lancelot-openclassrooms",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "type": "module",
   "source": "src/lib.package.js",
   "main": "./dist/lib.umd.js",
